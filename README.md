@@ -1,6 +1,6 @@
 # Extract and Explore
 
-Code for [If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions](example.com)
+Code for [If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions](https://arxiv.org/abs/2403.16442)
 
 <img src="block_diagram.png" width=750>
 
